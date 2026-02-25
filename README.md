@@ -3,7 +3,7 @@
 Healthcare Expense Analysis with Feature Engineering
 ## Overview
 This task analyzes a real-world Medical Cost Personal Dataset to understand the factors that drive healthcare expenses and predict insurance charges using Multiple Linear Regression.
-The analysis includes comprehensive preprocessing steps — handling categorical variables, feature scaling, outlier detection, and feature engineering — to build an interpretable regression model that explains how demographic and lifestyle factors influence medical costs.
+The analysis includes comprehensive preprocessing steps handling categorical variables, feature scaling, outlier detection, and feature engineering, to build an interpretable regression model that explains how demographic and lifestyle factors influence medical costs.
 ## Objective
 Predict medical insurance charges (Y = Charges) using patient attributes (X variables), including:
 * Age
